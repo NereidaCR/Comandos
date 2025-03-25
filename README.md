@@ -50,4 +50,12 @@ git push origin (nombre de la rama)
 ```
 git branch
 ```
+## crear nueva rama en local
+```
+git checkout -b (nombre de la nueva rama sin ñ ni espacios)
+```
+## cambiarme de rama
+```
+git checkout (nombre de la rama)
+```
 
