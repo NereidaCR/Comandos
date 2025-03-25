@@ -50,12 +50,25 @@ git push origin (nombre de la rama)
 ```
 git branch
 ```
-## crear nueva rama en local
+## Crear nueva rama en local
 ```
 git checkout -b (nombre de la nueva rama sin ñ ni espacios)
 ```
-## cambiarme de rama
+## Cambiarme de rama
 ```
 git checkout (nombre de la rama)
 ```
+## Descargar cambios de GitHub
+```
+git pull origin/(nombre de la rama)
+```
+## Descartar cambios de un archivo en local
+```
+git restore .\(nombre del archivo)
+```
+## Restaurar rama a lo que está en GitHub
+```
+git reset --hard origin test
+```
 
+ 
