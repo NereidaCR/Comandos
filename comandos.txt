@@ -1,0 +1,6 @@
+clonar un repositorio
+git clone (url del repositorio) (nombre del repositorio en mi pc) 
+
+clonar un repositorio en una rama en especifico
+git clone -b (nombre de la rama) (url del repositorio)
+
